@@ -1,2 +1,2 @@
-#!/bin/bas
-uid=0(root) gid=0(root) group=0(root)  
+#!/bin/bash
+whoami  
