@@ -1,2 +1,2 @@
 #!/bin/bash
-printev
+echo $PATH printev
